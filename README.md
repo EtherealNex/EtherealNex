@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  <I> Hello welcome to my page! </I>
+</h1>
 
-<!--
-**NexPetaurus/NexPetaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> I'm Nex here's what you need to know </p>
+
+
+<img align="left" src="https://github.com/NexPetaurus.png" width="308" />
+
+```haskell
+Contact Me:
+nexpetaurus@outlook.com
+------------------------------
+pronouns • he/him
+learning • html, css, c+, c#
+           c++, lua           
+hobbies  • gaming, code, music,
+           netflix, drinking tea.
+           
+discord  • NexPetaurus#9841
+
+repos    • 1
+commits  • 8
+issues   • 0
+```
