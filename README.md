@@ -20,8 +20,6 @@ hobbies  • gaming, code, music,
            netflix, drinking tea.
            
 discord  • NexPetaurus#9841
-
-repos    • 1
-commits  • 8
-issues   • 0
+twitter  • @NexPetaurus
+youtube  • NexPetaurus
 ```
