@@ -13,7 +13,7 @@
 Contact Me:
 nexpetaurus@outlook.com
 ------------------------------
-pronouns • he/him
+pronouns • They/Them
 learning • html, css, c+, c#
            c++, lua           
 hobbies  • gaming, code, music,
