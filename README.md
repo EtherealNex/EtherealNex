@@ -12,14 +12,16 @@
 ```haskell
 Contact Me:
 nexpetaurus@outlook.com
+
 ------------------------------
-pronouns • They/Them
-learning • html, css, c+, c#
+Pronouns • They/Them
+Learning • html, css, c+, c#
            c++, lua           
-hobbies  • gaming, code, music,
+Hobbies  • gaming, code, music,
            netflix, drinking tea.
            
-discord  • NexPetaurus#9841
-twitter  • @NexPetaurus
-youtube  • NexPetaurus
+Discord  • NexPetaurus#9841
+Twitter  • @NexPetaurus
+Youtube  • NexPetaurus
+------------------------------
 ```
