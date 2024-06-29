@@ -10,18 +10,7 @@
 <img align="left" src="https://github.com/NexPetaurus.png" width="308" />
 
 ```haskell
-Contact Me:
-nexpetaurus@outlook.com
 
-------------------------------
-Pronouns • They/Them
-Learning • html, css, c+, c#
-           c++, lua           
-Hobbies  • gaming, code, music,
-           netflix, drinking tea.
-           
-Discord  • NexPetaurus#9841
-Twitter  • @NexPetaurus
-Youtube  • NexPetaurus
-------------------------------
+Just a coder who cares about your privacy.
+
 ```
