@@ -9,7 +9,7 @@ Contact Me:
 -Email: maxis.vogues.0i@icloud.com
 
 Languages:
-- Python, C#, C++, Lua, Swift
+- Python, C++, HTML, CSS, JavaScript
 
 Socials:
 - Still working on that one
