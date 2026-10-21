@@ -1,10 +1,11 @@
 # EtherealNex
 
-<img align="left" src="https://github.com/EtherealNex.png" width="308" />
+<img align="left" src="https://github.com/EtherealNex.png" width="350" />
  
 
 
 ```haskell
+[Quick Details]
 Contact Me:
 -Email: maxis.vogues.0i@icloud.com
 
@@ -14,10 +15,17 @@ Languages:
 Socials:
 - Still working on that one
 
-PlaceHolder1:
-- Wow look at this while i figure this all out
+Public Projects:
+- ShowTimer: A free, open source, and lightweight show timer in python 
+- CPU Simulator: A python recreation of the Little Man Computer
 
-PlaceHolder2:
-- ill remove this later
+Private Projects:
+- QLights: The modern way of Show Control
+- MazeSolver: My A-Level Computer Science Project
+```
 
+```python
+[About Me]
+> I am a 1st year Theatre Technology Student at Guildhall School of Music and Drama
+> with A-levels in Drama, Computer Science, and Physics.
 ```
